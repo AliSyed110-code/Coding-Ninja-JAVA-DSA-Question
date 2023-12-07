@@ -1,0 +1,11 @@
+package classes_and_objects;
+
+public class Polynomia {
+  
+ DynamicArray coefficients;
+ 
+ public void polynomial() {
+	 
+ }
+	
+}

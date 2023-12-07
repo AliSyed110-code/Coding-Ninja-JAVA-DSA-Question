@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;Lecture 23 Graph 1 DSA JAVA/src/Graphs_1&apos;&#x0D;&#x0A;- Original project: &apos;Lecture 11 Queues DSA JAVA&apos;&#x0D;&#x0A;- Destination element: &apos;Lecture 23 Graph 1 DSA JAVA/src/Graphs_1&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Queues.QueuesEmptyException.java&#x0D;&#x0A;     Queues.Node.java&#x0D;&#x0A;     Queues.QueueUsingLL.java" description="Copy compilation units" destination="=Lecture 23 Graph 1 DSA JAVA/src&lt;Graphs_1" element1="/src&lt;Queues{QueuesEmptyException.java" element2="/src&lt;Queues{Node.java" element3="/src&lt;Queues{QueueUsingLL.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1676051217867" units="3" version="1.0"/>
+</session>

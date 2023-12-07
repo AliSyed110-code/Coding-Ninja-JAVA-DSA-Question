@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_WIDTH" value="600"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_HEIGHT" value="675"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_SIZE" value="true"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_LOCATION" value="false"/>
+		<list key="orderedElements">
+		</list>
+		<list key="orderedProviders">
+		</list>
+		<list key="textEntries">
+		</list>
+		<list key="textArray">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.ZipFile"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="ZipFileImportWizard">
+		<item key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\Admin\Downloads\0000000000000404.zip"/>
+			<item value="C:\Users\Admin\Downloads\0000000000000377.zip"/>
+			<item value="C:\Users\Admin\Downloads\0000000000000372.zip"/>
+			<item value="C:\Users\Admin\Downloads\0000000000000341.zip"/>
+			<item value="C:\Users\Admin\Downloads\0000000000003197.zip"/>
+			<item value="C:\Users\Admin\Downloads\0000000000000311.zip"/>
+			<item value="C:\Users\Admin\Downloads\0000000000000302.zip"/>
+			<item value="C:\Users\Admin\Downloads\0000000000003150.zip"/>
+			<item value="C:\Users\Admin\Downloads\0000000000003148.zip"/>
+			<item value="C:\Users\Admin\Downloads\0000000000003170.zip"/>
+			<item value="C:\Users\Admin\Downloads\0000000000003946.zip"/>
+			<item value="C:\Users\Admin\Downloads\0000000000000236.zip"/>
+			<item value="C:\Users\Admin\Downloads\0000000000000235.zip"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.preferences.keysPreferencePage">
+		<item key="actionSetFilter" value="true"/>
+		<item key="internalFilter" value="true"/>
+		<item key="uncategorizedFilter" value="true"/>
+	</section>
+</section>

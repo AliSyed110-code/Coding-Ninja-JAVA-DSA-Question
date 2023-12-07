@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;Pattern_Advance.Diamon_pattern.java&apos; to &apos;Diamond_pattern.java&apos;&#x0D;&#x0A;- Original project: &apos;Leture 8 Pattern (Part 2)  Advanced JAVA(AC)&apos;&#x0D;&#x0A;- Original element: &apos;Pattern_Advance.Diamon_pattern.java&apos;&#x0D;&#x0A;- Renamed element: &apos;Pattern_Advance.Diamond_pattern.java&apos;" description="Rename compilation unit &apos;Diamon_pattern.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;Pattern_Advance{Diamon_pattern.java" name="Diamond_pattern.java" references="false" stamp="1688801170150" version="1.0"/>
+</session>

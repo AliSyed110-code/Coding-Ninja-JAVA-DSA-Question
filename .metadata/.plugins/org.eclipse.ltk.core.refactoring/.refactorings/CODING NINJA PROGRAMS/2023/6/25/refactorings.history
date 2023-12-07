@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;Leture 2 Operators JAVA(AC)/src/Operators&apos;&#x0D;&#x0A;- Original project: &apos;CODING NINJA PROGRAMS&apos;&#x0D;&#x0A;- Destination element: &apos;Leture 2 Operators JAVA(AC)/src/Operators&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Logical.java&#x0D;&#x0A;     ArthemticOperatorprecedence.java&#x0D;&#x0A;     Relational.java" description="Copy compilation units" destination="=Leture 2 Operators JAVA\(AC)/src&lt;Operators" element1="/src&lt;{Logical.java" element2="/src&lt;{ArthemticOperatorprecedence.java" element3="/src&lt;{Relational.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1687513027439" units="3" version="1.0"/>
+</session>

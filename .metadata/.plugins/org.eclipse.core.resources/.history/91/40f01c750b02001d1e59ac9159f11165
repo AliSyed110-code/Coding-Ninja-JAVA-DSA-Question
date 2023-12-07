@@ -1,0 +1,20 @@
+package Assignment;
+
+import java.util.Scanner;
+
+public class Decimal_to_Binary {
+
+	public static void main(String[] args) {
+		Scanner s = new Scanner(System.in);
+		int n = s.nextInt();
+		int pv=1;
+		int ans=0;
+		while(n!=0) {
+		 pv=n;
+		 ans = ans + pv;
+		 n= n/2;
+		}
+
+	}
+
+}

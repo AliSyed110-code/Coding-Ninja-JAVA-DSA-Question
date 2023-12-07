@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Bit_Manipulation.AND_Operator&apos; to &apos;Operators&apos;&#x0D;&#x0A;- Original project: &apos;Leture 13 Bit Manipulation JAVA(AC)&apos;&#x0D;&#x0A;- Original element: &apos;Bit_Manipulation.AND_Operator&apos;&#x0D;&#x0A;- Renamed element: &apos;Bit_Manipulation.Operators&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;AND_Operator&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Bit_Manipulation{AND_Operator.java[AND_Operator" matchStrategy="1" name="Operators" qualified="false" references="true" similarDeclarations="false" stamp="1691917425696" textual="false" version="1.0"/>
+</session>

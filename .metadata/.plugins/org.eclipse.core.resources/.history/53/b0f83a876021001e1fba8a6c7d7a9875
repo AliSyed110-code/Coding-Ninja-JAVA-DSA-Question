@@ -1,0 +1,18 @@
+package OOPS;
+
+public class Student {
+
+	String name;
+	int age;
+
+	public Student(String name, int age) {
+		this.name = name;
+		this.age = age;
+	}
+
+	public void PrintInfo() {
+		System.out.println(this.name);
+		System.out.println(this.age);
+	}
+
+}

@@ -1,0 +1,9 @@
+package OOPS;
+
+public class Triangle extends Shape {
+
+	public void Triangle(int l, int h) {
+
+		System.out.println(1 / 2 * l * h);
+	}
+}

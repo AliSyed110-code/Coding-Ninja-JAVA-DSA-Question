@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;Lecture 26 Backtracking&apos; to &apos;Lecture 26 Backtracking DSA JAVA&apos;&#x0D;&#x0A;- Original element: &apos;Lecture 26 Backtracking&apos;&#x0D;&#x0A;- Renamed element: &apos;Lecture 26 Backtracking&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;Lecture 26 Backtracking&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Lecture 26 Backtracking" name="Lecture 26 Backtracking DSA JAVA" references="true" stamp="1678368857314" version="1.0"/>
+</session>

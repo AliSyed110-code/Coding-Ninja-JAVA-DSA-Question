@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;Lecture 13 Binary Trees DSA JAVA/src/Binary_Trees&apos;&#x0D;&#x0A;- Original project: &apos;Lecture 12 Trees DSA JAVA&apos;&#x0D;&#x0A;- Destination element: &apos;Lecture 13 Binary Trees DSA JAVA/src/Binary_Trees&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     TreeFile.Node.java&#x0D;&#x0A;     TreeFile.QueueUsingLL.java&#x0D;&#x0A;     TreeFile.QueueEmptyException.java" description="Copy compilation units" destination="=Lecture 13 Binary Trees DSA JAVA/src&lt;Binary_Trees" element1="/src&lt;TreeFile{Node.java" element2="/src&lt;TreeFile{QueueUsingLL.java" element3="/src&lt;TreeFile{QueueEmptyException.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1666613584983" units="3" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;How_are_2D_Arrays_Stored.java&apos; to &apos;Lecture 12/src/Two_Dimensional_Arrays&apos;&#x0D;&#x0A;- Original project: &apos;Lecture 10&apos;&#x0D;&#x0A;- Destination element: &apos;Lecture 12/src/Two_Dimensional_Arrays&apos;&#x0D;&#x0A;- Original element: &apos;Array_2.How_are_2D_Arrays_Stored.java&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update fully qualified names in &apos;*&apos; files" description="Move compilation unit" destination="=Lecture 12/src&lt;Two_Dimensional_Arrays" element1="/src&lt;Array_2{How_are_2D_Arrays_Stored.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="true" references="true" stamp="1659526930168" units="1" version="1.0"/>
+</session>

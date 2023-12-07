@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Priority_Queues_II.K_mallest_elements&apos; to &apos;K_largest_Element&apos;&#x0D;&#x0A;- Original project: &apos;Lecture 19 Priority Queues II DSA JAVA&apos;&#x0D;&#x0A;- Original element: &apos;Priority_Queues_II.K_mallest_elements&apos;&#x0D;&#x0A;- Renamed element: &apos;Priority_Queues_II.K_largest_Element&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;K_mallest_elements&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Priority_Queues_II{K_mallest_elements.java[K_mallest_elements" matchStrategy="1" name="K_largest_Element" qualified="false" references="true" similarDeclarations="false" stamp="1669727901717" textual="false" version="1.0"/>
+</session>

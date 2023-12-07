@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;Lecture 18  Priority Queues  I&apos; to &apos;Lecture 18  Priority Queues  I DSA   JAVA&apos;&#x0D;&#x0A;- Original element: &apos;Lecture 18  Priority Queues  I&apos;&#x0D;&#x0A;- Renamed element: &apos;Lecture 18  Priority Queues  I&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;Lecture 18  Priority Queues  I&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Lecture 18  Priority Queues  I" name="Lecture 18  Priority Queues  I DSA   JAVA" references="true" stamp="1669411696115" version="1.0"/>
+</session>

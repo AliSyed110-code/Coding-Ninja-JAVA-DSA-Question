@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;weight&apos; in &apos;Graph_2.Dijkstra.findMinVertex(...)&apos; to &apos;distance&apos;&#x0D;&#x0A;- Original project: &apos;Lecture 24 Graph 2 DSA JAVA&apos;&#x0D;&#x0A;- Original element: &apos;Graph_2.Dijkstra.findMinVertex(int[], boolean[]).weight&apos;&#x0D;&#x0A;- Renamed element: &apos;weight&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;weight&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;Graph_2{Dijkstra.java[Dijkstra~findMinVertex~\[I~\[Z@weight!518!529!524!529!\[I!0!true" name="distance" references="true" stamp="1677135800669" version="1.0"/>
+</session>
